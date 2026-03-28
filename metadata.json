@@ -1,0 +1,5 @@
+{
+  "name": "Trusted Service Hub",
+  "description": "A modern web storefront and service management platform inspired by Telegram service bots. Features real-time ordering, price monitoring, and an AI-powered support assistant.",
+  "requestFramePermissions": []
+}
